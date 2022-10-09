@@ -1,13 +1,14 @@
-# Color Picker
+# Code Labs Academy - Color Picker
 
 ### the simplest color picker made in html, css and javascript
 ---
 
+
 ## Introduction
 
-This is one of the coding challenges for Unit 1 of the __web development bootcamp__ offered by [Code Labs Academy](https://codelabsacademy.com), in this unit we go through basic languages that are crucial for web development. We learn the major concepts of HTML, CSS and JavaScript while providing challenges and homeworks for an optimal hands-on learning experience.
+This is one of the coding challenges for **Unit 1 : Basics** of the __web development bootcamp__ offered by [Code Labs Academy](https://codelabsacademy.com), in this unit we go through basic languages that are crucial for web development. We learn the major concepts of HTML, CSS and JavaScript while providing challenges and homeworks for an optimal hands-on learning experience.
 
-## Project description
+## Challenge description
 
 In this project, we will get more familiar with the concept of DOM manipulation using Javascript. We will be moving elements inside other elements and apply mathematical functions to know the right color to set to an element.
 
@@ -29,4 +30,4 @@ Here are the steps to follow to complete this project:
 
 Feel free to do this project on your own, or take a glance at the provided hints.
 
-HAPPY CODING YALL :D
+**Happy coding!** 😄
